@@ -15,7 +15,6 @@ public class Game implements ActionListener {
  private Timer timer;
  public static Game game;
 
- public static JFrame jframe = new JFrame();
  public static final int WIDTH = 1600, HEIGHT = 500, refreshTimeMS=3;
  
  public Renderer renderer;
