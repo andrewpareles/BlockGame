@@ -1,3 +1,4 @@
+![](demophoto.gif)
 
 
 To execute, run ./out/artifacts/Block_Game_jar/Block Game.jar
